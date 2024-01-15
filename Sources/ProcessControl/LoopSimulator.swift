@@ -4,7 +4,6 @@
 //
 //  Created by Rick Street on 7/29/20.
 //
-// Set up Remote
 
 import Foundation
 import AxisSpacing
@@ -51,7 +50,7 @@ public class LoopSimulator {
         }
     }
     
-    
+    // Test Test
     // Positional Values
     public var sp = 0.5 // Initial setpoint at 50% - process and controller in velocity form
     public var cv = 0.5
